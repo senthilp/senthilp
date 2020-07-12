@@ -1,1 +1,1 @@
-![Twitter Follow](https://img.shields.io/twitter/follow/senthil_hi?label=Twitter&style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/senthil_hi?label=Twitter&style=social)](https://twitter.com/senthil_hi)
